@@ -24,3 +24,5 @@ Once trained, the PINN provides a continuous approximation of the wavefunction a
 ### Follow-up
 
 For unknown energy eigenvalues, the architecture can be extended to **jointly learn the eigenvalue and wavefunction** by treating energy as a trainable parameter and introducing appropriate normalization, boundary, and physics-based loss constraints.
+
+Contributors : Sameer Choudhary and Arpit.
